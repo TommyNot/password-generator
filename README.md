@@ -45,11 +45,6 @@ Puoi eseguire i test con il comando:
 cargo test
 ```
 
-I test includono:
-- Verifica che la password generata contenga solo i caratteri desiderati.
-- Verifica che la lunghezza della password sia corretta.
-- Verifica che il PIN contenga solo numeri.
-
 ## 📌 **Struttura del progetto**
 
 ```
